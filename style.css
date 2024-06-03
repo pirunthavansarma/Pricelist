@@ -72,6 +72,7 @@ li {
     position: relative; 
     padding-left: 30px; 
     margin-bottom: 10px;
+    text-align:left;
 }
 
 li::before {
@@ -125,6 +126,6 @@ button {
 }
 
 #most{
-    margin-top: -60px;
+    margin-top: -10px;
     
 }
